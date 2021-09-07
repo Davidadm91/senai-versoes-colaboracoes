@@ -1,2 +1,2 @@
 # senai-versoes-colaboracoes
-REA DME Exemplo
+README Exemplo
